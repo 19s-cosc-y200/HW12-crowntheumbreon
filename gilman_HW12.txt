@@ -17,6 +17,9 @@ color: black;
 font-family: helvetica;
 }
 
+should be all for a
+colors should be in HEX
+
 .new{
 font-weight: bold;
 font-style:italic;
